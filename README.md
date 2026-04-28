@@ -9,7 +9,7 @@
 
 ## Демо
 
-[Посмотреть демо](https://krikker.github.io/movie-hub)
+[Посмотреть демо](https://online-shoe-store-two.vercel.app/)
 
 ## Возможности
 
